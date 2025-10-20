@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/ya/olympiad_project/olympiad_project_pybind/build",
+  "command": "/usr/bin/c++ -Dmy_module_EXPORTS -isystem /usr/include/python3.13 -std=gnu++17 -fPIC -o CMakeFiles/my_module.dir/pybind_module.cpp.o -c /home/ya/olympiad_project/olympiad_project_pybind/pybind_module.cpp",
+  "file": "/home/ya/olympiad_project/olympiad_project_pybind/pybind_module.cpp",
+  "output": "CMakeFiles/my_module.dir/pybind_module.cpp.o"
+},
+{
+  "directory": "/home/ya/olympiad_project/olympiad_project_pybind/build",
+  "command": "/usr/bin/c++ -Dmy_module_EXPORTS -isystem /usr/include/python3.13 -std=gnu++17 -fPIC -o CMakeFiles/my_module.dir/anneal.cpp.o -c /home/ya/olympiad_project/olympiad_project_pybind/anneal.cpp",
+  "file": "/home/ya/olympiad_project/olympiad_project_pybind/anneal.cpp",
+  "output": "CMakeFiles/my_module.dir/anneal.cpp.o"
+}
+]

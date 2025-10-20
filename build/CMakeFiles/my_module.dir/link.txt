@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -Wl,--dependency-file=CMakeFiles/my_module.dir/link.d -shared -Wl,-soname,my_module.so -o /home/ya/olympiad_project/olympiad_project_pybind/my_module.so CMakeFiles/my_module.dir/pybind_module.cpp.o CMakeFiles/my_module.dir/anneal.cpp.o  /usr/lib/libpython3.13.so /usr/lib/libpython3.13.so

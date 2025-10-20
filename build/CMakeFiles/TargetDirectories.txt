@@ -1,0 +1,3 @@
+/home/ya/olympiad_project/olympiad_project_pybind/build/CMakeFiles/my_module.dir
+/home/ya/olympiad_project/olympiad_project_pybind/build/CMakeFiles/edit_cache.dir
+/home/ya/olympiad_project/olympiad_project_pybind/build/CMakeFiles/rebuild_cache.dir

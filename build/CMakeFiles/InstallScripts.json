@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/ya/olympiad_project/olympiad_project_pybind/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
