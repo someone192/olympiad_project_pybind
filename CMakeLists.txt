@@ -3,7 +3,7 @@ project(MyAnnealModule LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
-set(CMAKE_EXPORT_COMPILE_COMMANDS ON)  # 🔥 Для VSCode
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 find_package(Python REQUIRED COMPONENTS Interpreter Development)
 message(STATUS "Python include dirs: ${Python_INCLUDE_DIRS}")  # Debug
