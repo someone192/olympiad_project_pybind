@@ -14,7 +14,6 @@ message(STATUS "Pybind11 include dirs: ${pybind11_INCLUDE_DIRS}")
 
 add_library(my_module SHARED pybind_module.cpp anneal.cpp)
 
-# 🔥 КРИТИЧНО: Передаём Python includes
 target_include_directories(my_module PRIVATE
     ${Python_INCLUDE_DIRS}
     ${pybind11_INCLUDE_DIRS}
