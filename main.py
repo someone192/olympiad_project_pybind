@@ -4,9 +4,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 import my_module
 
-# Формируем masses (исправлено на 10.0)
 masses_1 = [2000.0] * 2341
-masses_2 = [10.0] * 22657  # Исправлено с 100.0 на 10.0
+masses_2 = [10.0] * 22657
 masses_3 = [100.0] * 1545
 masses_4 = [1.0] * 3546
 masses_5 = [43.6] * 15000
