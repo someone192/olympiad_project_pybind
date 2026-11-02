@@ -34,7 +34,7 @@ try:
     else:
         for i, pos in enumerate(result[:10]):
             print(f"Коробка {i+1}: {pos}")
-        # Взвешенный центр (исправлено)
+        
         total_mass = sum(masses)
         xc = sum(masses[i] * result[i][0] for i in range(len(result))) / total_mass
         yc = sum(masses[i] * result[i][1] for i in range(len(result))) / total_mass
